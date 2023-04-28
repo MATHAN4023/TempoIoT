@@ -32,7 +32,7 @@ const Add_device = () => {
     return (
         <div className='Add_device'>
             <div className="new_device box-shadow">
-                <button className="btn theme-btn">New Device</button>
+                <button className="btn theme-btn">mathan Device</button>
             </div>
             <div className="add_device_container">
                 <div className="new_device_content">
